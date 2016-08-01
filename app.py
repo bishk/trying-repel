@@ -1,7 +1,6 @@
 import web
 from __future__ import print_function, division
 import nltk
-nltk.download()
 import os
 import random
 from collections import Counter
