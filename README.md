@@ -1,7 +1,7 @@
-basic-webpy-heroku-app
+python-webserver-to-classify-clickbait
 ======================
 
-A really basic web.py app to experiment with web.py and Heroku.
+A web.py and heroku app that uses a naïve Bayes implementation to classify click bait titles.
 
 Resources
 ---------
